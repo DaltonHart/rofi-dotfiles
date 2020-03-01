@@ -9,4 +9,4 @@ configuration {
   xoffset: -20;
 }
 
-@import "nord.rasi" 
+@import "material.rasi" 
