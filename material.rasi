@@ -16,6 +16,8 @@
     margin-bottom: 0;
     margin-top: 0;
     spacing: 0;
+
+    font: "JetBrains Mono Regular 12";
 }
 
 #listview {
